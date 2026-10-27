@@ -1,0 +1,31 @@
+question,answer
+What are the internship timings?,Please follow the working hours shared by your internship coordinator.
+How do I submit my task?,Complete your task and submit it through the official submission platform or assigned GitHub repository.
+When will I receive my internship certificate?,Certificate issuance depends on the internship program's completion requirements and official policy.
+How can I contact my supervisor?,Contact your assigned supervisor through the official communication channel.
+How do I get feedback on my project?,Share your completed work with your supervisor and request feedback through the official channel.
+What should I do if I miss a deadline?,Inform your supervisor as soon as possible and explain the reason for the delay.
+Can I submit my task late?,Late submission depends on your program's policy. Contact your coordinator for approval.
+How do I upload my code to GitHub?,"Create or open your assigned repository, add your project files, commit the changes, and push them to GitHub."
+What is GitHub used for during the internship?,"GitHub is used to store code, track project changes, and share your work."
+How do I create a GitHub repository?,"Sign in to GitHub, select New repository, enter a repository name, and create it."
+What if my code is not working?,"Check the error message, review your code, and ask your supervisor for help if needed."
+Can I ask questions about my assigned task?,Yes. Ask your supervisor or use the official internship support channel.
+How do I check my internship progress?,"Review your completed tasks, feedback, and progress updates on the assigned platform."
+What happens if I do not complete a task?,Contact your supervisor to discuss the issue and agree on the next steps.
+Can I work on my task using VS Code?,Yes. VS Code is a suitable code editor for Python and many other development tasks.
+Which Python version should I use?,Use the Python version specified in your project instructions or development environment.
+How do I install Python libraries?,"Open your terminal and run python -m pip install package_name, replacing package_name with the required library."
+What should I include in my project submission?,"Follow the task instructions. Common items include source code, required datasets, results, and a README file."
+How do I write a README file?,"Create a README.md file describing the project, installation steps, usage, technologies, and results."
+Can I update my task after submission?,Follow your program's submission rules and ask your supervisor whether updates are allowed.
+What if I cannot access the submission platform?,"Check your login details and internet connection, then contact your coordinator if the issue continues."
+How can I request an extension?,Contact your supervisor before the deadline and explain why you need additional time.
+Are internship meetings compulsory?,Follow the meeting requirements communicated by your internship coordinator.
+How do I report a technical issue?,"Describe the problem, include the relevant error message, and contact your assigned support person."
+What if I receive no response from my supervisor?,Send a polite follow-up through the official communication channel and contact the coordinator if necessary.
+Can I use online resources for my task?,Use reliable learning resources and follow your organization's rules for originality and attribution.
+How do I protect confidential project data?,Follow your organization's data security policy and do not share confidential information publicly.
+Can I add my internship project to my portfolio?,Check your organization's sharing and confidentiality policy before publishing your work.
+What happens after I finish all tasks?,Follow the completion instructions provided by your internship coordinator.
+Who should I contact about certificate eligibility?,Contact your internship coordinator to confirm the program's certificate requirements.
